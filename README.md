@@ -55,8 +55,6 @@ This experiment pipeline:
 
 ---
 
----
-
 ## Workflow
 
 ### 1. Synthetic Data Generation
