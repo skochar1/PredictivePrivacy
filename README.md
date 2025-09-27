@@ -90,7 +90,7 @@ Notebook: `Survey_Generation.ipynb`
 
 ### 4. Model Training
 
-Script / Notebook: TBD
+Script / Notebook: `StatAnalysis_100Certain.ipynb` and `StatAnalysis_50_75Certain.ipynb`
 
 - **Purpose**: Train a supervised model to predict harm scores based on profile features and scenario accuracy.
 - **Steps**:
