@@ -90,7 +90,7 @@ Notebook: `Survey_Generation.ipynb`
 
 ### 4. Model Training
 
-Script / Notebook: `StatAnalysis_100Certain.ipynb` and `StatAnalysis_50_75Certain.ipynb`
+Script / Notebook: analysis/ `StatAnalysis_100Certain.ipynb` and `StatAnalysis_50_75Certain.ipynb`
 
 - **Purpose**: Train a supervised model to predict harm scores based on profile features and scenario accuracy.
 - **Steps**:
@@ -99,6 +99,12 @@ Script / Notebook: `StatAnalysis_100Certain.ipynb` and `StatAnalysis_50_75Certai
   3. Split into training and testing sets.
   4. Train regression models (e.g., Random Forest, XGBoost).
   5. Evaluate performance (MAE, RMSE) and export the trained model.
+
+### 5. Results
+
+Graph documents: results/ `survey1_graphs.pdf` and `survey2_graphs.pdf`
+
+The two graph documents show Likert Score distribution among different features within a category.
 
 ---
 
